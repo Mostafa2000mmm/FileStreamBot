@@ -1,1 +1,1 @@
-worker: python bot_file.py
+worker: python -m FileStream
